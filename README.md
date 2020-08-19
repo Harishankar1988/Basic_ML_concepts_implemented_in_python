@@ -1,2 +1,3 @@
-# topic_modelling_sklearn_lsa_nmf_lda
-This is a dummy topic modeling project using sklearn. Algorithm implemeneted are - LSA, NMF and LDA.
+#Basic_ML_concepts_implemented_in_python
+A small initiative to get all the basic ML tools/ codes/ concepts in a single repo
+
